@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Auñón Pardo</h1>
 <h3 align="center">A passionate Full Stack Developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniap03&label=Profile%20views&color=0e75b6&style=flat" alt="daniap03" /> </p>
 
 - 🌱 I’m currently learning **Flask, React, Redux**
 - 💼 All of my projects are available at **https://github.com/daniap03**
