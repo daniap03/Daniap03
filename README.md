@@ -35,13 +35,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-api-web-development-flaticons-lineal-color-flat-icons.png" alt="REST APIs" height="40"/>
+<img src="https://raw.githubusercontent.com/gist/Aniket762/07e97c494d162d79bd15046b5f08bb73/raw/a1d2b95574ddb29c045a28c2419acd0c39c6bebb/jwt.svg" alt="JWT" height="40"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniap03&show_icons=true&locale=en&layout=compact" alt="daniap03 top languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniap03&show_icons=true&locale=en" alt="daniap03 stats" /></p>
 
